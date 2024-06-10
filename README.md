@@ -4,13 +4,13 @@ The system has a default user for first time log-in.
 Email: admin@email.com
 Password: @dmin123
 
-#Default Users
+# Default Users
 
 The system has two default users set for quick tests.
-##Admin  
+## Admin  
 Email: a 
 Password: a
-##Corretor
+## Corretor
 Email: c
 Password: c
 
