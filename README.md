@@ -4,6 +4,9 @@ The system has a default user for first time log-in.
 Email: admin@email.com
 Password: @dmin123
 
+# Operations
+The system gives a "Realizar Venda" operation for "Corretor" users.
+
 # Default Users
 
 The system has two default users set for quick tests.
